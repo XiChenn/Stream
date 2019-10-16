@@ -1,0 +1,48 @@
+{
+  "streams": [
+    {
+      "title": "aaa",
+      "description": "bbbb",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "This is some stream",
+      "id": 2
+    },
+    {
+      "title": "adf",
+      "description": "dsf",
+      "id": 3
+    },
+    {
+      "title": "ddddddd",
+      "description": "cccccccc",
+      "id": 4
+    },
+    {
+      "title": "Math",
+      "description": "Noah's math explanation",
+      "userId": "107328701034892112879",
+      "id": 5
+    },
+    {
+      "title": "Math",
+      "description": "Noah's math explanation",
+      "userId": "107328701034892112879",
+      "id": 6
+    },
+    {
+      "title": "Math",
+      "description": "Noah's math explanation",
+      "userId": "107328701034892112879",
+      "id": 7
+    },
+    {
+      "title": "CS",
+      "description": "computer science",
+      "userId": "108992535383301765817",
+      "id": 8
+    }
+  ]
+}
